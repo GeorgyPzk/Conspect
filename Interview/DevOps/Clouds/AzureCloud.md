@@ -2,10 +2,19 @@
 
 ## RBAC
 
-Service for role assignments to subscriptions, resource groups, etc. Can be assigned by code. Can be assigned in Azure Active Directory -> Users. Assigned with role assignment.
+Служба для назначения ролей(role assignments) подпискам ресурсным группам и тд. Можно назначить кодом. Можно назначить в Azure Active Directory -> Users. Назначается с помощью role assignment.
 
 ### IAM (Azure Identity and Access Management Solutions)
 
-RBAC Substance - adds roles to RBAC users directly in resource groups
+Сущность(Substance) из RBAC добавляет роли пользователям из RBAC роли непостредственно в ресурсных группах
 
-Security principal - some Substance (user, group, service principal, managed identity) which you can assign rights(role assignments).
+Service principal - какая то сущность(user, group, service principal, managed identity), котрой(Which) ты можешь выдать права.
+
+# VPS 
+
+Virtual Private Cloud (VPC) — понятие для AWS. В Azure это просто настройка network(локальной сети и security rule к ней)
+
+__Что такое cloud-init? init/systemd/upstart configs?__ - это не спросят
+
+Могут спросить могут: "Можно ли преднастроить VM перед запуском(скриптом)?".
+Можно, добавив скрипт в какой то extantion.

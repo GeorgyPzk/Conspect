@@ -17,6 +17,6 @@ AKS
 
 Как дебажить поды
 
-что такое scale set replica aset 
+что такое scale set replica aset
 
 
