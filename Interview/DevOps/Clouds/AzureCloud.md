@@ -8,7 +8,12 @@
 
 Сущность(Substance) из RBAC добавляет роли пользователям из RBAC роли непостредственно в ресурсных группах
 
-Service principal - какая то сущность(user, group, service principal, managed identity), котрой(Which) ты можешь выдать права.
+Service principal - какая то сущность(user, group, service principal, managed identity), котрой(Which) ты можешь выдать права.\
+
+#### Managed Identity (MI)
+
+Managed Identity (MI) - сущьность позволяет автоматически аутентифицироваться в Azure Active Directory. предоставление автоматически управляемого удостоверения в Azure Active Directory (Azure AD) для использования приложениями при подключении к ресурсам, поддерживающим проверку подлинности Azure AD.
+
 
 # VPS 
 

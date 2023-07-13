@@ -38,9 +38,9 @@ Purpose of CI:
 
 ## CD
 
-CD(Continuous Delivery) - 
+CD(Continuous Delivery) -
 1. Automatic infrastructure preparation. (For example with terraform)
-2. Sending of objects to the environment and application release process. 
+2. Sending some objects to the environment and application release process. 
 3. !Main difference with Continuous Deployment! My must manually validate resultls of infrastructure deployment and then allow to deploy this.
 
 CD(Continuous Deployment) - Continuous deployment automatic infrastructure preparation and deploy application automatically, without human validation. 
