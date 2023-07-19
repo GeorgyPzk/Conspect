@@ -17,4 +17,4 @@ Managed Identity (MI) - substanse for authentication in Azure AD. Provide an aut
 Two types of managed identities exist:
 
 - System-assigned - can be associated with a signe Azure resourses
-- User-assigned - can be associated with a multiple Azure resourses
+- User-assigned - can be associated with a multiple Azure resourses. Created For AKS

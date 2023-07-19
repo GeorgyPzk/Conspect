@@ -14,7 +14,10 @@ Service principal - какая то сущность(user, group, service princi
 
 Managed Identity (MI) - сущьность позволяет автоматически аутентифицироваться в Azure Active Directory. предоставление автоматически управляемого удостоверения в Azure Active Directory (Azure AD) для использования приложениями при подключении к ресурсам, поддерживающим проверку подлинности Azure AD.
 
+Существует два типа:
 
+- System-assigned - can be associated with a signe Azure resourses
+- User-assigned - can be associated with a multiple Azure resourses. Создается для AKS кластера.
 # VPS 
 
 Virtual Private Cloud (VPC) — понятие для AWS. В Azure это просто настройка network(локальной сети и security rule к ней)
