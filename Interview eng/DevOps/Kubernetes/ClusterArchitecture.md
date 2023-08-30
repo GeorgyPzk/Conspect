@@ -21,3 +21,7 @@
 
 - kube-proxy - is in every Node. Responsible for maintaining network rules on the node, allowing and disallowing network interaction.
 
+## Load balancer
+
+Load balancer has two purposes or responsibilities to provide outbound connectivity for nodes and pods and to provide access to applications via Kubernetes services.
+
