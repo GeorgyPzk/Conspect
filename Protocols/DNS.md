@@ -12,3 +12,15 @@ Resolver - DNS сервер провайдера
 2. Браузер обращается к ресольверу(resolver),
 3. 
 4. 
+
+## DNS record
+
+__A__ - Address record(IPv4)
+__AAAA__ - Address record(IPv6)
+__CNAME__ - Canonical Name record
+__MX__ - Mail Exchanger record
+__NS__ - Nameserver record
+__PTR__ - Pointer record
+__SOA__ - Start of Authority record
+__SRV__ - Secver location record
+__TXT__ - Text record

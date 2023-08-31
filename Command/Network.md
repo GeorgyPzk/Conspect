@@ -6,6 +6,8 @@
 
 `sudo nmap 213.134.001.001 -p-` - check all ports
 
+`netstat` - show all internet connactions with ports
+
 # PowerShell
 
 `Get-NetIPAddress -AddressFamily IPV4` - get your IP adress

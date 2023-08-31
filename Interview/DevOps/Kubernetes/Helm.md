@@ -1,0 +1,3 @@
+# How automaticly deploy Helm Chart?
+
+K8s add on Helm Operator + Github Actions/...
