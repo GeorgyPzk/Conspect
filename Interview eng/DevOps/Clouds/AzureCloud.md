@@ -22,3 +22,7 @@ Two types of managed identities exist:
 
 - System-assigned - can be associated with a signe Azure resourses
 - User-assigned - can be associated with a multiple Azure resourses. Created For AKS
+
+# NSG(Network security group)
+
+NSG - cloud level firewall.
