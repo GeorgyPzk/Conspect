@@ -1,3 +1,7 @@
+# Tenant
+
+Tenant - обьединятет несколько subscriptions и может ими управлять. Обычно используется клиентом что бы контролровать расходы. 
+
 # Role assignment
 
 ## RBAC
@@ -18,6 +22,11 @@ Managed Identity (MI) - сущьность позволяет автоматич
 
 - System-assigned - can be associated with a signe Azure resourses
 - User-assigned - can be associated with a multiple Azure resourses. Создается для AKS кластера.
+
+# NSG(Network security group)
+
+NSG - фаервол на уровне клауда.
+
 
 # VPS 
 

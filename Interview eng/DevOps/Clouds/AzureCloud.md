@@ -1,3 +1,7 @@
+# Tenant
+
+Tenant - combines several subscriptions and can manage them. Usually used by the client to control costs.
+
 # Role assignment
 
 ## RBAC
