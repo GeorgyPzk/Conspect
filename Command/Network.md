@@ -1,5 +1,3 @@
-
-
 `ipconfig` - get your IP adress
 
 `arp -a` - get all IP adress in local network

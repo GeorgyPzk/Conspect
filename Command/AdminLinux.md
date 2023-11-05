@@ -43,7 +43,15 @@ cat /etc/os-release
 
 `df -h` - показывает свободное место на диске 
 
+# chown 
+
+`chown root ./dir1` - передать пользователью root права владельца на папку или файл
+
+# nmap
+
+`nmap -p 3306 <IPtarget>`
 
 # Other command
 
 `ls -l` - показать файлы и папки с правами
+

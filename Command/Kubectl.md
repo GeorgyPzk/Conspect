@@ -11,7 +11,7 @@
 `kubectl top node` - show CPU and memory.
 `kubectl descride node <substance> <substancename>` - Show details of a specific resource or group of resources.
 `kubectl cordon $NODENAME` - To mark a Node unschedulable.
-`kubectl drain NODE` - 
+`kubectl drain NODE` -  The given node will be marked unschedulable to prevent new pods from arriving. 'drain' evicts the pods if the API server supports
 
 `kubectl node-shell <nodename>` - enter inside the node
 

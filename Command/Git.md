@@ -32,6 +32,10 @@
 
 `git push --set-upstream origin <breanchName>`
 
+Посмотреть все ветки локально
+
+`git branch.`
+
 Удаляет ветку
 
 `git branch -d <breanchName>`

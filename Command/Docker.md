@@ -38,7 +38,7 @@ __Stop__ container:
 
 __Delite__ container/image:
 
-`docker rm <imagename>`
+`docker rm <containername>`
 
 `docker rmi <imagename>`
 
